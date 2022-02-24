@@ -1,4 +1,1 @@
-Creating a new branch is quick & simple.
-create a new branch is quick
-createing a new breanch is quick and simple
-merged
+master context
