@@ -1,2 +1,3 @@
 create a new branch is quick
-o version2
+createing a new breanch is quick and simple
+
